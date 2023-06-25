@@ -56,8 +56,8 @@ The methodology for this project involved developing and comparing a custom-buil
 
 From the above models, it was clear that each approach had its own strengths and weaknesses. While the Custom CNN model served as a good starting point, the transfer learning models (VGG16 and MobileNetV2) demonstrated superior performance. However, these models aren't perfect and can be further optimized. Here are some improvements that can be made:
 
-- 🎛️ Refine Data Augmentation: Data Augmentation was beneficial but introduced some noise in the images, which could potentially impact the model's performance.
+- 🎛️ Refine Data Augmentation: Data Augmentation was beneficial but introduced some noise in the images, which could potentially impact the model's performance
   
-- ⏱️ Adjust Learning Rate and Increase Epochs: Tuning the learning rate and increasing the number of epochs could potentially improve the model's accuracy.
+- ⏱️ Adjust Learning Rate and Increase Epochs: Tuning the learning rate and increasing the number of epochs could potentially improve the model's accuracy
   
-- 🔧 Implement Advanced Hyperparameter Tuning Techniques: Techniques like Grid Search or Random Search can be employed to explore many combinations of parameters systematically and find the best performing ones.
+- 🔧 Implement Advanced Hyperparameter Tuning Techniques: Techniques like Grid Search or Random Search can be employed to explore many combinations of parameters systematically and find the best performing ones
