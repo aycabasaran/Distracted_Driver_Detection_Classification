@@ -17,11 +17,6 @@ The 10 classes to predict are:
 - 👋 c7: reaching behind 
 - 💄 c8: hair and makeup 
 - 👥 c9: talking to passenger
-  
-
-💡 **Problem Definition**
-
-_"Can a Computer Vision Model be built in order to be able to detect and properly classify different drivers behaviors while driving?"_
 
 
 🔧 **Technology Stack**
@@ -29,7 +24,7 @@ _"Can a Computer Vision Model be built in order to be able to detect and properl
 Python, Tensorflow, Keras, Pandas, NumPy, Scikit-Learn, Matplotlib.
 
 
-🔨 **Methodology**
+💡 **Methodology**
 
 The methodology for this project involved developing and comparing a custom-built Convolutional Neural Network (CNN), a VGG16 model and a MobileNetV2 model. 
 
