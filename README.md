@@ -36,7 +36,7 @@ The methodology for this project involved developing and comparing a custom-buil
 - Learning Rate (α): 0.001
 
 
-**VGG16 Model with Image Augmentation**:
+**VGG16 Model**:
 - Pre-trained Model: VGG16
 - Batch Size: 60
 - Optimizer: Adam
@@ -44,7 +44,7 @@ The methodology for this project involved developing and comparing a custom-buil
 - Data Augmentation: Yes
 
 
-**MobileNetV2 Model with Hyperparameter Tuning and Image Augmentation**:
+**MobileNetV2 Model**:
 - Pre-trained Model: MobileNetV2
 - Batch Size: 120
 - Optimizer: SGD
