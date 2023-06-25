@@ -1,7 +1,7 @@
 # 🚗 Image Classification: Distracted Driver Detection 🚗 
 
 
-🎯 **Overview**
+### 🎯 **Overview**
 
 In this project, I utilize machine learning models to classify images of drivers engaged in various activities. The dataset comprises images of drivers performing different actions such as texting, eating, talking on the phone, makeup, reaching behind, and more. The goal is to predict the driver's action in each picture accurately.
 
@@ -19,12 +19,12 @@ The 10 classes to predict are:
 - 👥 c9: talking to passenger
 
 
-🔧 **Technology Stack**
+### 🔧 **Technology Stack**
 
 Python, Tensorflow, Keras, Pandas, NumPy, Scikit-Learn, Matplotlib.
 
 
-💡 **Methodology**
+### 💡 **Methodology**
 
 The methodology for this project involved developing and comparing a custom-built Convolutional Neural Network (CNN), a VGG16 model and a MobileNetV2 model. 
 
@@ -52,7 +52,7 @@ The methodology for this project involved developing and comparing a custom-buil
 - Data Augmentation: Yes
 
 
-💭 **Main Conclusions**
+### 💭 **Main Conclusions**
 
 From the above models, it was clear that each approach had its own strengths and weaknesses. While the Custom CNN model served as a good starting point, the transfer learning models (VGG16 and MobileNetV2) demonstrated superior performance. However, these models aren't perfect and can be further optimized. Here are some improvements that can be made:
 
